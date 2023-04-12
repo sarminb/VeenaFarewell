@@ -9,7 +9,7 @@ _paginate: false
 header: ":copyright: THANK YOU"
 footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ---
-![](#012)
+![bg 50%](https://avatars.githubusercontent.com/deanjain)
 
 ![bg opacity 60%](http://img.picturequotes.com/2/542/541515/goodbye-quote-1.jpg)
 
@@ -40,5 +40,7 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
+---
+#### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here, 
 ---
 :heart::purple_heart::green_heart::blue_heart:

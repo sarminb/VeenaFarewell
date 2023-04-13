@@ -41,6 +41,14 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
+
+<img width="547" alt="Dean's_Farewell" src="https://user-images.githubusercontent.com/15997633/231724264-92b19e90-ddbb-42e3-9ea2-7452e775c852.png">
+
+### Param Says:
+#### Dean: A true leader
+##### Your energy and bright ideas made work so much more enjoyable! Thank you for being a great leader, you are really like a friend for us. Thank you for all the support and guidance, wish you good time ahead.
+
+---
 #### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here, 
 ---
 :heart::purple_heart::green_heart::blue_heart:

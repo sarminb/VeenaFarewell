@@ -26,7 +26,8 @@ footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ![bg 50% opacity blur](https://avatars.githubusercontent.com/deanjain)
 
 ### Sarmin Says:
-
+#### Dean: The Best Mentor 
+##### You are irreplaceable Dean!! Thank you for being a real inspiration to us.Your contribution and guidance formed each one of us and whole Blaze platform.It is our privilege to work under you. All the best with your next challenge. We will Miss you Dean. 
 
 <!-- _class: lead -->
 

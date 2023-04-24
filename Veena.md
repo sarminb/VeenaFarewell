@@ -9,7 +9,7 @@ _paginate: false
 header: ":copyright: THANK YOU"
 footer: "Dean, the Heart and Soul of EPSAM Data :heart:"
 ---
-![bg 50%](https://avatars.githubusercontent.com/deanjain)
+![bg 50%]()
 
 ![bg opacity 60%](http://img.picturequotes.com/2/542/541515/goodbye-quote-1.jpg)
 

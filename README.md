@@ -12,7 +12,7 @@ Idea is to have the presentation built with simple mardown files and embed it wi
 - Convert markdown to presentable html format using node/npx command
 - Commit html to git repo and enable github pages via settings tab
 - Blazingly fast delivery on your presentation via Github Pages
-- Sample: https://deanjain.github.io/Presentations/PATTERNS.html
+- 
 
 
 

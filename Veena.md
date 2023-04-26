@@ -44,7 +44,11 @@ footer: "Veena, the revolutionary QA :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
+### Ankitha Says:
+#### Veena: Hey Veena, all the best for the next venture. I didn’t get a chance to work with you closely. You have immense knowledge in your domain which makes you a superwoman. You are an amazing and humble person. Hope to see you around soon.
 ---
+:heart::purple_heart::green_heart::blue_heart:
+
 #### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here, 
 ---
 :heart::purple_heart::green_heart::blue_heart:

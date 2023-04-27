@@ -49,6 +49,11 @@ footer: "Veena, the revolutionary QA :heart:"
 ---
 :heart::purple_heart::green_heart::blue_heart:
 
+### Atheeth Says:
+#### Veena: You have a third eye when it comes to testing. Your knowledge and expertise in corner stone is exceptional. We were always confident once we get your signoff. You are very brave and honest. We are going to miss you. All the best.
+---
+:heart::purple_heart::green_heart::blue_heart:
+
 #### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here, 
 ---
 :heart::purple_heart::green_heart::blue_heart:

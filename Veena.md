@@ -77,6 +77,17 @@ footer: "Veena, the revolutionary QA :heart:"
 
 ---
 
+### Mohammad Mamoon Mallick Says:
+#### Veena: We will miss u
+#### As your time with us comes to an end, I wanted to take a moment to express my deepest appreciation for all the hard work and dedication you have brought to our blaze framework. Your contributions have been invaluable, and we will miss you greatly. Your work as a QA team has been essential in ensuring the quality of our products and services. You have gone above and beyond in identifying and addressing issues before they reach our customers, and for that, we are grateful.
+
+#### We will miss your presence and your contributions, but we are excited for the opportunities that lie ahead for you.
+
+<!-- _class: lead -->
+<style scoped> { font-size:24px;}</style>
+
+---
+
 ![bg 60% opacity ](https://t3.ftcdn.net/jpg/03/81/54/06/240_F_381540621_j9v7wCb1vGTvg7CpucpmHjQaA9MntaGS.jpg)
 
 

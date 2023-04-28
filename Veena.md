@@ -36,23 +36,19 @@ footer: "Veena, the revolutionary QA :heart:"
 ---
 ![bg 90% opacity ](https://previews.123rf.com/images/drawlab19/drawlab191610/drawlab19161000031/67735421-vektor-hand-gezeichnete-meisterskizze-sportler-oder-fu%C3%9Fballspieler-der-in-der-hand-mit-siegescup-auf.jpg)
 
-### Rahul Kumar Says:
-#### Veena: 
-##### 
+### Tamim Says:
+#### Veena: Very attentive,knowledgable and hardworking 
+##### Working with you was a wonderful experience.In addition to finding issue,you were always curious about the root cause of the issue and your effort to understand the rootcause always helped us understand issue well.I was really amazed with the knowledge you had about the data residing in cornerstone and esodl.This knowledge always helped us understand the requirement more while implementing new usecases.We will miss you...Hope to work with you again... 
 
-<!-- _class: lead -->
-<style scoped> { font-size:24px;}</style>
----
 
 ### Ankitha Says:
 #### Veena: Hey Veena, all the best for the next venture. I didn’t get a chance to work with you closely. You have immense knowledge in your domain which makes you a superwoman. You are an amazing and humble person. Hope to see you around soon.
 ---
-:heart::purple_heart::green_heart::blue_heart:
 
 ### Atheeth Says:
 #### Veena: You have a third eye when it comes to testing. Your knowledge and expertise in corner stone is exceptional. We were always confident once we get your signoff. You are very brave and honest. We are going to miss you. All the best.
 ---
-:heart::purple_heart::green_heart::blue_heart:
+
 
 #### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here, 
 ---

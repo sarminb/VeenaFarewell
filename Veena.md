@@ -49,6 +49,11 @@ footer: "Veena, the revolutionary QA :heart:"
 #### Veena: You have a third eye when it comes to testing. Your knowledge and expertise in corner stone is exceptional. We were always confident once we get your signoff. You are very brave and honest. We are going to miss you. All the best.
 ---
 
+---
+
+### Param Says:
+#### Veena: You are the best example of why any team needs a QA engineer and get the QA sign off before going live, you really have a great knowledgfe of testing, it was great working with you. All the best Veena.
+---
 
 #### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here, 
 ---

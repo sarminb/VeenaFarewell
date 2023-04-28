@@ -98,6 +98,13 @@ footer: "Veena, the revolutionary QA :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
+### Dean Jain Says:
+#### Veena: A revolutionary QA and perfectionist 😎🤩😎🤩
+#### amazing work Veena !! thank you so much for everything you've done for our organization. It was an awesome contribution. You have set the standard and a very high bar for a perfect QA, to be a great QA You really need to know the data and technology and you know both really well, which is what made you set a part and you were able to do wonderful things and all our products we launched never had any outages which is still a record !! 😎🤩🥳 all the best to you in this most amazing, exciting new journey which I know will be amazing 🤩 congratulations. Have fun take care and keep in touch thank you again. 
+
+<!-- _class: lead -->
+<style scoped> { font-size:24px;}</style>
+---
 
 
 

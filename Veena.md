@@ -70,7 +70,10 @@ footer: "Veena, the revolutionary QA :heart:"
 ##### Veena: You are an humble and friendly natured to everyone. Thank you for wonderful QA company throughout the BLAZE journey. Wish you all the success in your future endeavours. Wish to work with you soon.
 
 
+### Kanhaiya Kumar Says:
+#### Veena. A Great Talent !!!
 
+##### You are one of the best colleague I had worked ever. You were my goto person for any kind problems. you will have always some readymade solution. you are the great example of ethics, discipline, commitment, deep knowledge and can never be contested. you bring so much enerrgy and fun in workspace. You were great to work with and you have given us tones of good memories to relive with. Wish you all the very best for your future !! 
 
 ---
 

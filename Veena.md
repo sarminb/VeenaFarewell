@@ -79,7 +79,10 @@ footer: "Veena, the revolutionary QA :heart:"
 
 
 
-
  :heart::purple_heart::green_heart::blue_heart:
+
+---
+### Mayank Says:
+##### Hey Veena, it was really nice working with you! Wish you all the very best for your future! :) 
 
 

@@ -45,6 +45,10 @@ footer: "Veena, the revolutionary QA :heart:"
 ---
 
 ---
+### Poornima Says:
+##### You are an humble and friendly natured to everyone. Thank you for wonderful QA company throughout the BLAZE journey. Wish you all the success in your future endeavours. Wish to work with you soon.
+---
+---
 #### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here, 
 ---
 :heart::purple_heart::green_heart::blue_heart:

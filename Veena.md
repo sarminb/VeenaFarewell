@@ -71,7 +71,7 @@ footer: "Veena, the revolutionary QA :heart:"
 
 
 
-#### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here, 
+
 ---
 
 ![bg 60% opacity ](https://t3.ftcdn.net/jpg/03/81/54/06/240_F_381540621_j9v7wCb1vGTvg7CpucpmHjQaA9MntaGS.jpg)

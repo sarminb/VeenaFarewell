@@ -26,7 +26,7 @@ footer: "Veena, the revolutionary QA :heart:"
 
 
 ### Sarmin Says:
-#### Veena: Knowledgeable, patience , wonderful human being and friend 
+#### Veena: Knowledgeable, patience , wonderful human being and a good friend 
 #####  With great knowledge of data and framework you helped to deliver error free Blaze framework. It was a pleasure to work with you. You are not only a colleague you are really a good friend to me. I will Miss you.Thank you again for making Blaze Platform a bulletproof Platform. 
 
 
@@ -67,36 +67,46 @@ footer: "Veena, the revolutionary QA :heart:"
 ---
 
 ### Poornima Says:
-##### Veena: You are an humble and friendly natured to everyone. Thank you for wonderful QA company throughout the BLAZE journey. Wish you all the success in your future endeavours. Wish to work with you soon.
+#### Veena: You are an humble and friendly natured to everyone. Thank you for wonderful QA company throughout the BLAZE journey. Wish you all the success in your future endeavours. Wish to work with you soon.
 
+<!-- _class: lead -->
+<style scoped> { font-size:24px;}</style>
+---
 
 ### Kanhaiya Kumar Says:
 #### Veena. A Great Talent !!!
 
 ##### You are one of the best colleague I had worked ever. You were my goto person for any kind problems. you will have always some readymade solution. you are the great example of ethics, discipline, commitment, deep knowledge and can never be contested. you bring so much enerrgy and fun in workspace. You were great to work with and you have given us tones of good memories to relive with. Wish you all the very best for your future !! 
 
+<!-- _class: lead -->
+<style scoped> { font-size:24px;}</style>
 ---
 
 ### Mohammad Mamoon Mallick Says:
-#### Veena: We will miss u
-#### As your time with us comes to an end, I wanted to take a moment to express my deepest appreciation for all the hard work and dedication you have brought to our blaze framework. Your contributions have been invaluable, and we will miss you greatly. Your work as a QA team has been essential in ensuring the quality of our products and services. You have gone above and beyond in identifying and addressing issues before they reach our customers, and for that, we are grateful.
-
+#### Veena:  As your time with us comes to an end, I wanted to take a moment to express my deepest appreciation for all the hard work and dedication you have brought to our blaze framework. Your contributions have been invaluable, and we will miss you greatly. Your work as a QA team has been essential in ensuring the quality of our products and services. You have gone above and beyond in identifying and addressing issues before they reach our customers, and for that, we are grateful.
 #### We will miss your presence and your contributions, but we are excited for the opportunities that lie ahead for you.
+
 
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
-
 ---
+
+### Mayank Says:
+##### Hey Veena, it was really nice working with you! Wish you all the very best for your future! :)
+
+<!-- _class: lead -->
+<style scoped> { font-size:24px;}</style>
+---
+
+
+
 
 ![bg 60% opacity ](https://t3.ftcdn.net/jpg/03/81/54/06/240_F_381540621_j9v7wCb1vGTvg7CpucpmHjQaA9MntaGS.jpg)
 
 
 
 
- :heart::purple_heart::green_heart::blue_heart:
-
----
-### Mayank Says:
-##### Hey Veena, it was really nice working with you! Wish you all the very best for your future! :) 
+:heart::purple_heart::green_heart::blue_heart:
+ 
 
 

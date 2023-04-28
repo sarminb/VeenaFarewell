@@ -55,7 +55,12 @@ footer: "Veena, the revolutionary QA :heart:"
 ##### Veena: You have a third eye when it comes to testing. Your knowledge and expertise in corner stone is exceptional. We were always confident once we get your signoff. You are very brave and honest. We are going to miss you. All the best.
 
 
+<!-- _class: lead -->
+<style scoped> { font-size:24px;}</style>
+---
 
+### Param Says:
+#### Veena: You are the best example of why any team needs a QA engineer and get the QA sign off before going live, you really have a great knowledgfe of testing, it was great working with you. All the best Veena.
 
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
@@ -63,6 +68,7 @@ footer: "Veena, the revolutionary QA :heart:"
 
 ### Poornima Says:
 ##### You are an humble and friendly natured to everyone. Thank you for wonderful QA company throughout the BLAZE journey. Wish you all the success in your future endeavours. Wish to work with you soon.
+
 
 
 #### Please first copy everything from this line to the next one and paste it underneath the line below. Write your message here, 
